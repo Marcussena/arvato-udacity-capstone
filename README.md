@@ -30,3 +30,7 @@ I acknowledge the following sources, websites, github projects and blogposts for
 - AUC-ROC curve explained — https://www.analyticsvidhya.com/blog/2020/06/auc-roc-curve-machine-learning/
 - roc_auc_score sklearn reference — https://scikit-learn.org/stable/modules/generated/sklearn.metrics.roc_auc_score.html
 - Insight about good binary classification models — https://machinelearningmastery.com/types-of-classification-in-machine-learning/
+- Insight on how to create a funtion to replace unknown values - https://github.com/djirmgard/arvato-udacity-project/blob/master/Arvato%20Project%20Workbook.ipynb
+- Insight on how to summarize metrics to help find the best model - https://github.com/pranaymodukuru/Bertelsmann-Arvato-customer-segmentation
+- Technique to display the results of the predictions - https://github.com/pranaymodukuru/Bertelsmann-Arvato-customer-segmentation
+- Insight on steps to clean the data - https://github.com/dilayercelik/Arvato-MLProject
