@@ -9,7 +9,8 @@ The workflow was divided in the following sections:
 - Part 3: Kaggle Competition
 
 Finally, the results of the model were uploaded on a Kaggle competition in order to evaluate how good the model performed relative to others.
-In addition, I've written a blogpost on medium with more detail and explanations available in https://marcusmvls-vinicius.medium.com/customer-segmentation-of-demographic-database-for-arvato-financial-solutions-ad9d2d96acd8
+In addition, I've written a blogpost on medium with more detail and explanations available here:
+https://marcusmvls-vinicius.medium.com/customer-segmentation-of-demographic-database-for-arvato-financial-solutions-ad9d2d96acd8
 
 ## 2. Files Description
 - Arvato Project Workbook: Jupyter notebook with the whole workflow for the project
