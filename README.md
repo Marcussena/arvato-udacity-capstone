@@ -35,3 +35,4 @@ I acknowledge the following sources, websites, github projects and blogposts for
 - Insight on how to summarize metrics to help find the best model - https://github.com/pranaymodukuru/Bertelsmann-Arvato-customer-segmentation
 - Technique to display the results of the predictions - https://github.com/pranaymodukuru/Bertelsmann-Arvato-customer-segmentation
 - Insight on steps to clean the data - https://github.com/dilayercelik/Arvato-MLProject
+- Understanding AUC-ROC curve - https://towardsdatascience.com/understanding-auc-roc-curve-68b2303cc9c5
